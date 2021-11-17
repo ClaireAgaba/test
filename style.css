@@ -1,0 +1,44 @@
+body{
+    max-width: 1300px;
+    /*max-height: 200px; */
+    background-color: #faebd7;
+    color: black ;
+    font-family: papyrus, fantasy;
+    font-size: 2em;
+    
+}
+h1{
+    font-family: Brush Script MT,cursive;
+    color: blue;
+    font-size: 3em;
+
+}
+.heading{
+    
+    text-decoration: underline;
+    
+}
+#what{
+    color: green;
+    text-decoration: underline;
+}
+#ana{
+    color: red;
+    font-style: italic;
+}
+#sum{
+    color: green;
+    font-family: sans-serif;
+}
+#inv{
+    font-style: italic;
+    font-size: 1.1em;
+}
+hr {
+    width: 200%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 0 none;
+  }
